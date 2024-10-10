@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FRESHGO_FARMERAPP_JS/static/css/main.91aabc1d.css",
+    "main.js": "/FRESHGO_FARMERAPP_JS/static/js/main.b8e03997.js",
+    "static/js/453.0192a024.chunk.js": "/FRESHGO_FARMERAPP_JS/static/js/453.0192a024.chunk.js",
+    "index.html": "/FRESHGO_FARMERAPP_JS/index.html",
+    "main.91aabc1d.css.map": "/FRESHGO_FARMERAPP_JS/static/css/main.91aabc1d.css.map",
+    "main.b8e03997.js.map": "/FRESHGO_FARMERAPP_JS/static/js/main.b8e03997.js.map",
+    "453.0192a024.chunk.js.map": "/FRESHGO_FARMERAPP_JS/static/js/453.0192a024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aabc1d.css",
+    "static/js/main.b8e03997.js"
+  ]
+}
